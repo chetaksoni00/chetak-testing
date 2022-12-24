@@ -1,0 +1,49 @@
+OOPS: Object Oriented Programming Systems : black box testing , functional testing
+==========================================
+1) class : is an collection of data member(variable) and member function (process, methods) with its behaviors
+sy :
+	class classname
+	{
+		data member;
+		member function;
+	}
+2) object : instances of an class 
+	:to create an memory of an class
+	:to access the whole properties of an class except private
+sy :
+	classname objectname=new classname();
+
+3) encapsulation : data hiding : wrapping up of data into single unit
+	private your data member or member function
+
+4) inheritance : properties of parent class extends into child class
+	:main purpose is  reusablity , extendsiblity
+	:there are mainly 5 types
+	1) single
+	2) multilevel
+	3) hierarchical
+	4) multiple: java does not support
+	5) hybrid : java does not support
+
+5) polymorphism : ability to take one name having different forms
+	: many forms or multiple forms 
+	:there are mainly 2 types
+	1) compile time (method overloading)
+	2) run time (method overriding)
+
+6) abstraction : data hiding :
+	:only essential part should be display and rest of the part will be hide
+
+
+
+
+
+
+
+
+
+
+
+
+
+
